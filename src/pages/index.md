@@ -1,16 +1,12 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: おじさんプログラマー悪戦苦闘日記
+image: /img/audience-1853662_1280.jpg
+heading: のんびり一生懸命学習中！
+subheading: ４４歳からの一念発起。まじ大変だーーw
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: なぜプログラミングか。
+  description: インターネットに触れて思った。今やらなければと。
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -68,3 +64,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
