@@ -1,12 +1,12 @@
 ---
 templateKey: index-page
-title: おじさんプログラマー悪戦苦闘日記
-image: /img/audience-1853662_1280.jpg
-heading: のんびり一生懸命学習中！
-subheading: ４４歳からの一念発起。まじ大変だーーw
+title: 税理士法人S&1パートナーズ
+image: /img/main000.jpg
+heading: 若い人の助けに！
+subheading: 税務のご相談は気軽にお問合せください。
 mainpitch:
-  title: なぜプログラミングか。
-  description: インターネットに触れて思った。今やらなければと。
+  title: 今、税理士に求められること
+  description: 気軽にご相談ください。
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
