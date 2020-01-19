@@ -16,13 +16,13 @@ export default class BlogIndexPage extends React.Component {
           <h1
             className="has-text-weight-bold is-size-1"
             style={{
-              boxShadow: '0.5rem 0 0 #D82E82, -0.5rem 0 0 #D82E8B	',
-              backgroundColor: '#D82E8B	',
+              boxShadow: '0.5rem 0 0 #B3C100, -0.5rem 0 0 #B3C100',
+              backgroundColor: '#B3C100',
               color: 'white',
               padding: '1rem',
             }}
           >
-            S＆Iパートナーズグループ
+          最新情報
           </h1>
         </div>
         <section className="section">
